@@ -1,0 +1,8 @@
+<form >
+  <label for="">Username:</label>
+  {{input value=username id="username"}}
+  <label for="">Password:</label>
+  {{input value=password id="password"}}
+  <button class="btn btn-success" {{action 'loginUser'}}>Login</button>
+</form>
+{{yield}}

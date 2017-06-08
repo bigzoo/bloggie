@@ -1,0 +1,9 @@
+{{#each posts as |post-item|}}
+{{#link-to 'post' post-item_id}}
+{{post-item.title}}
+<br>
+{{/link-to}}
+{{post-item.content}}
+{{/each}}
+
+{{yield}}

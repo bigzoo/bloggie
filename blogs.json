@@ -1,0 +1,31 @@
+{
+  "users":[
+    {
+    "username":"admin",
+    "password":"admin"
+    }
+  ],
+  "posts":[
+    {
+    "title":"This is the posts title",
+    "author":"Authors name",
+    "content":"This is the posts content This is the posts contentThis is the posts contentThis is the posts content.",
+    "tags":"programming, science, computer",
+    "category":"software engineering"
+    },
+    {
+    "title":"This is the posts title",
+    "author":"Authors name",
+    "content":"This is the posts content This is the posts contentThis is the posts contentThis is the posts content.",
+    "tags":"programming, science, computer",
+    "category":"software engineering"
+    },
+    {
+    "title":"This is the posts title",
+    "author":"Authors name",
+    "content":"This is the posts content This is the posts contentThis is the posts contentThis is the posts content.",
+    "tags":"programming, science, computer",
+    "category":"software engineering"
+    }
+  ]
+}
